@@ -1,0 +1,15 @@
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\bin\Debug\net6.0\Les2AlgotitmEffency.exe
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\bin\Debug\net6.0\Les2AlgotitmEffency.deps.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\bin\Debug\net6.0\Les2AlgotitmEffency.runtimeconfig.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\bin\Debug\net6.0\Les2AlgotitmEffency.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\bin\Debug\net6.0\Les2AlgotitmEffency.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.csproj.AssemblyReference.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.AssemblyInfoInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.AssemblyInfo.cs
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.csproj.CoreCompileInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\refint\Les2AlgotitmEffency.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\Les2AlgotitmEffency.genruntimeconfig.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les2AlgotitmEffency\obj\Debug\net6.0\ref\Les2AlgotitmEffency.dll

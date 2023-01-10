@@ -1,0 +1,15 @@
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\bin\Debug\net6.0\Les3BigONotation.exe
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\bin\Debug\net6.0\Les3BigONotation.deps.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\bin\Debug\net6.0\Les3BigONotation.runtimeconfig.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\bin\Debug\net6.0\Les3BigONotation.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\bin\Debug\net6.0\Les3BigONotation.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.csproj.AssemblyReference.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.AssemblyInfoInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.AssemblyInfo.cs
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.csproj.CoreCompileInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\refint\Les3BigONotation.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\Les3BigONotation.genruntimeconfig.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les3BigONotation\obj\Debug\net6.0\ref\Les3BigONotation.dll
