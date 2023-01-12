@@ -1,0 +1,15 @@
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\bin\Debug\net6.0\Les4AlgoSortSelect.exe
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\bin\Debug\net6.0\Les4AlgoSortSelect.deps.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\bin\Debug\net6.0\Les4AlgoSortSelect.runtimeconfig.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\bin\Debug\net6.0\Les4AlgoSortSelect.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\bin\Debug\net6.0\Les4AlgoSortSelect.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.csproj.AssemblyReference.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.AssemblyInfoInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.AssemblyInfo.cs
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.csproj.CoreCompileInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\refint\Les4AlgoSortSelect.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\Les4AlgoSortSelect.genruntimeconfig.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les4AlgoSortSelect\obj\Debug\net6.0\ref\Les4AlgoSortSelect.dll
