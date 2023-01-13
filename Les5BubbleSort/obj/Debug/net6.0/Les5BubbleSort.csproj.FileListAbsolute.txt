@@ -1,0 +1,15 @@
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\bin\Debug\net6.0\Les5BubbleSort.exe
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\bin\Debug\net6.0\Les5BubbleSort.deps.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\bin\Debug\net6.0\Les5BubbleSort.runtimeconfig.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\bin\Debug\net6.0\Les5BubbleSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\bin\Debug\net6.0\Les5BubbleSort.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.csproj.AssemblyReference.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.AssemblyInfoInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.AssemblyInfo.cs
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\refint\Les5BubbleSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\Les5BubbleSort.genruntimeconfig.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5BubbleSort\obj\Debug\net6.0\ref\Les5BubbleSort.dll
