@@ -1,0 +1,15 @@
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\bin\Debug\net6.0\Les5QiuckSort.exe
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\bin\Debug\net6.0\Les5QiuckSort.deps.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\bin\Debug\net6.0\Les5QiuckSort.runtimeconfig.json
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\bin\Debug\net6.0\Les5QiuckSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\bin\Debug\net6.0\Les5QiuckSort.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.csproj.AssemblyReference.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.AssemblyInfoInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.AssemblyInfo.cs
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.csproj.CoreCompileInputs.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\refint\Les5QiuckSort.dll
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.pdb
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\Les5QiuckSort.genruntimeconfig.cache
+C:\Users\paviv\OneDrive\Рабочий стол\GB_study\bootCampProg\Les5QiuckSort\obj\Debug\net6.0\ref\Les5QiuckSort.dll
